@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yashgupta7337/react-repo/issues"
   },
-  "homepage": "https://github.com/yashgupta7337/react-repo#readme"
+  "homepage": "https://github.com/yashgupta7337/react-repo#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
