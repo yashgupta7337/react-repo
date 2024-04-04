@@ -147,9 +147,9 @@ const parent = React.createElement(
   ### Difference between react.development.js and react.production.js files via CDN
   - **`react.development.js`**: This is the unminified version of React intended for use during the development process. It includes additional warnings, error messages, and helps with debugging. It's larger and slower than the production version, making it unsuitable for deployment in production environments.
   - **`react.production.js`**: This version is minified and optimized for production. It has unnecessary code removed, including development warnings and verbose error messages, to reduce the file size and improve loading times and performance. It's intended to be used when deploying your application to production.
-  Using the appropriate version ensures that developers have the necessary tools and feedback for development, while end-users experience a faster, more efficient application in production.
+    Using the appropriate version ensures that developers have the necessary tools and feedback for development, while end-users experience a faster, more efficient application in production.
   - **async vs defer attributes in Javascript - [URL](https://www.youtube.com/watch?v=IrHmpdORLu8)**
-  ![Screenshot 2024-04-04 at 3.29.41 PM.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/4385a302-181a-45da-9ce8-2f8526ed578e/a8c9cd11-b0a2-46fb-9732-30f541e95589/Screenshot_2024-04-04_at_3.29.41_PM.png)
+    ![Async Vs Defer](async-defer.png)
   - Black - HTML code parsing by the browser line by line.
   - Blue - JS code fetching by the network line by line.
   - Red - JS code executing by the browser line by line.
