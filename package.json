@@ -2,7 +2,6 @@
   "name": "react-repo",
   "version": "1.0.0",
   "description": "This is a repository for React tutorial. Created by Yash Gupta (miyazaki)",
-  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -18,6 +17,11 @@
   },
   "homepage": "https://github.com/yashgupta7337/react-repo#readme",
   "devDependencies": {
-    "parcel": "^2.12.0"
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
