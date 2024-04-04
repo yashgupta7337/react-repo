@@ -1,0 +1,20 @@
+{
+  "name": "react-repo",
+  "version": "1.0.0",
+  "description": "This is a repository for React tutorial. Created by Yash Gupta (miyazaki)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashgupta7337/react-repo.git"
+  },
+  "keywords": [],
+  "author": "Yash Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashgupta7337/react-repo/issues"
+  },
+  "homepage": "https://github.com/yashgupta7337/react-repo#readme"
+}
