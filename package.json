@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "This is a repository for React tutorial. Created by Yash Gupta (miyazaki)",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "jest"
   },
   "repository": {
